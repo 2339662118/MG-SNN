@@ -39,7 +39,7 @@ The ``utils.py`` script contains various utility functions used throughout the p
    @article{zheng2024motion,
      title={Motion Feature Extraction Using Magnocellular-inspired Spiking Neural Networks for Drone Detection},
      author={Jiayi Zheng, Yaping Wan, Xin Yang, Hua Zhong, Minghua Du, and Gang Wang},
-     journal={Journal Name},
+     journal={Frontiers in Computational Neuroscience},
      year={2024}
    }
   ```
